@@ -1,6 +1,6 @@
 # Policies
 
-[DABster](/dabster/privacypolicy.md)
+[DABdream](/dabdream/privacypolicy.md)
 Generated with: https://app-privacy-policy-generator.firebaseapp.com/
 
 <!---
