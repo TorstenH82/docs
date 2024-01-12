@@ -1,3 +1,3 @@
 # Policies
 
-[An Internal Link](/dabster/policy.md)
+[An Internal Link](/dabster/privacypolicy.md)
