@@ -1,3 +1,4 @@
 # Policies
 
-[An Internal Link](/dabster/privacypolicy.md)
+[DABster](/dabster/privacypolicy.md)
+Generated with: https://app-privacy-policy-generator.firebaseapp.com/
