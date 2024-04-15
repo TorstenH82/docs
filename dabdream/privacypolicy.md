@@ -1,7 +1,7 @@
 ## Policy
 **Privacy Policy**
 
-TorstenH28 built the DABdream app as a Commercial app. This SERVICE is provided by TorstenH28 and is intended for use as is.
+TorstenH82 built the DABdream app as a Commercial app. This SERVICE is provided by TorstenH82 and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
