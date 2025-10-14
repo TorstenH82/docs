@@ -25,8 +25,8 @@ Check your emails and copy one of the URLs that link to your donation.
 
 3. Click the **Get Donation Key** button:
 
-![Donation Key Button](assets/GetKeyButton.png)
-
+[![Donation Key Button](assets/GetKeyButton.png)]([https://example.com/donate](https://donation-ui-delta.vercel.app/))
+ 
 4. As a result, you will receive your Donation Key:
 
 ![Donation Key](assets/DonationKey.png)
