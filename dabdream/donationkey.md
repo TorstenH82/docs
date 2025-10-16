@@ -5,10 +5,11 @@ How to get a DABdream Donation Key
 ## Place a Donation
 
 Visit [Ko-fi](https://ko-fi.com/appswitcher) to place a donation.
+If you've already donated, you can skip this step.
 
 ## Get Transaction Details
 
-Check your emails and copy one of the URLs that link to your donation.
+Check your email and copy one of the URLs that links to your donation.
 
 ![Donation Receipt](assets/DonationReceipt.png)
 
@@ -30,3 +31,5 @@ Check your emails and copy one of the URLs that link to your donation.
 4. As a result, you will receive your Donation Key:
 
 ![Donation Key](assets/DonationKey.png)
+
+Download the Donation Key and save the file securely, as you cannot generate the Donation Key again.
