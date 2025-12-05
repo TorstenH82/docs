@@ -33,3 +33,9 @@ Check your email and copy one of the URLs that links to your donation.
 ![Donation Key](assets/DonationKey.png)
 
 Download the Donation Key and save the file securely, as you cannot generate the Donation Key again.
+
+5. Enter the Donation Key in DABdream:
+
+Please ensure you copy and paste the **entire key** and do not miss any characters.
+
+
