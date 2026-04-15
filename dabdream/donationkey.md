@@ -23,7 +23,7 @@ Do not copy any transaction ID from your payment provider (e.g. PayPal) - this w
 
 ### Option 2: Get the Ko-fi Transaction ID from your payment provider
 
-The payment provider (e.g. PayPal) shows the Ko-fi Transcation ID as billing number, other payment provider may name it reference number. The Ko-fi Tranaction ID has this format: xxxxxx
+The payment provider (e.g. PayPal) shows the Ko-fi Transcation ID as billing number, other payment provider may name it reference number. The Ko-fi Tranaction ID has this format: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
 
 Do not copy the PayPal transaction number as it has a different format and it will not work.
 
