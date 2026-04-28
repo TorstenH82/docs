@@ -40,16 +40,16 @@ Do not copy the PayPal transaction number as it has a different format and it wi
 
 ⚠️ You must use the link copied in the previous step or your Ko-fi Transaction ID. Other IDs (e.g., from PayPal or other payment providers) are **not valid**.
 
-3. Click the **Get Donation Key** button.
+3. Click the **Get Donation Key** button <img src="assets/GetDonationKey.jpg" alt="GetDonationKey Button" width="200">.
 
-4. As a result, you will receive your Donation Key:
+4. As a result, you will receive your Donation Key. Download the Donation Key as .txt file with the button <img src="assets/DownloadDonationKey.jpg" alt="DownloadDonationKey Button" width="200">..
 
-<img src="assets/DonationKey.png" alt=Donation width="400">
-
-Download the Donation Key and save the file securely, as you cannot generate the Donation Key again.
+Save the .txt file securely, as you cannot generate the Donation Key again.
 
 ## Enter the Donation Key
 
-Enter the Donation Key in DABdream:
+Transfer the downloaded .txt file to your head unit. DABdream allows to import the Donation Key from the file with the button <img src="assets/DABdreamDonationButton.jpg" alt="DABdream Donation Button">. 
 
-Please ensure you copy and paste the **entire key** and do not miss any characters. I recommend downloading the Donation Key and transferring the .txt file to your head unit. This way, you can easily copy the entire file content and paste it directly into DABdream.
+![DABdream Donation Dialog](assets/DABdreamDonation.jpg)
+
+As some head units lack of the feature to select files, you can also manually copy and paste the **entire key** into the input field.
