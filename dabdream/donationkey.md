@@ -42,7 +42,7 @@ Do not copy the PayPal transaction number as it has a different format and it wi
 
 3. Click the **Get Donation Key** button <img src="assets/GetDonationKey.jpg" alt="GetDonationKey Button" width="200">.
 
-4. As a result, you will receive your Donation Key. Download the Donation Key as .txt file with the button <img src="assets/DownloadDonationKey.jpg" alt="DownloadDonationKey Button" width="200">..
+4. As a result, you will receive your Donation Key. Download the Donation Key as .txt file with the button <img src="assets/DownloadDonationKey.jpg" alt="DownloadDonationKey Button" width="130">..
 
 Save the .txt file securely, as you cannot generate the Donation Key again.
 
