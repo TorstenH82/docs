@@ -9,6 +9,8 @@ Generated with: https://app-privacy-policy-generator.firebaseapp.com/
 [APIclient](/apiclient/privacypolicy.md)
 Generated with: https://app-privacy-policy-generator.firebaseapp.com/
 
+[AirMusic Magic](/airmusic/privacypolicy.md)
+Generated with: https://app-privacy-policy-generator.firebaseapp.com/
 
 <!---
 https://torstenh82.github.io/docs/
