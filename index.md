@@ -12,6 +12,9 @@ Generated with: https://app-privacy-policy-generator.firebaseapp.com/
 [AirMusic Magic](/airmusic/privacypolicy.md)
 Generated with: https://app-privacy-policy-generator.firebaseapp.com/
 
+[Audio Focus](/audiofocus/privacypolicy.md)
+Generated with: https://app-privacy-policy-generator.firebaseapp.com/
+
 <!---
 https://torstenh82.github.io/docs/
 -->
